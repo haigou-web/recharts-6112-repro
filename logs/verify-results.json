@@ -1,0 +1,2969 @@
+[
+  {
+    "version": "302",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "1400px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_print-h0_screen.png",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_print-h0_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "1400px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "1400px",
+      "height": "900px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "900",
+      "viewBox": "0 0 1400 900"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,521C148.667,549.667,237.333,578.333,326,607C414.667,635.",
+        "w": 1330,
+        "h": 181.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,658.6C148.667,565.72,237.333,472.84,326,472.84C414.667,4",
+        "w": 1330,
+        "h": 723.3
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 965,
+    "screenshot": "screenshots/verify_302_vh-print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_vh-print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_pct-chain_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_pct-chain_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "596px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_grid-print-rows-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "596px",
+      "height": "15px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_302_grid-print-rows-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_print-h0_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_print-h0_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "900",
+      "viewBox": "0 0 1400 900"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,521C148.667,549.667,237.333,578.333,326,607C414.667,635.",
+        "w": 1330,
+        "h": 181.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,658.6C148.667,565.72,237.333,472.84,326,472.84C414.667,4",
+        "w": 1330,
+        "h": 723.3
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 965,
+    "screenshot": "screenshots/verify_310_vh-print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_vh-print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_pct-chain_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_pct-chain_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_grid-print-rows-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_310_grid-print-rows-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_print-h0_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_print-h0_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "900",
+      "viewBox": "0 0 1400 900"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,521C148.667,549.667,237.333,578.333,326,607C414.667,635.",
+        "w": 1330,
+        "h": 181.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,658.6C148.667,565.72,237.333,472.84,326,472.84C414.667,4",
+        "w": 1330,
+        "h": 723.3
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 962,
+    "screenshot": "screenshots/verify_330_vh-print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_vh-print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_pct-chain_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_pct-chain_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_grid-print-rows-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_330_grid-print-rows-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_print-h0_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_print-h0_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "900",
+      "viewBox": "0 0 1400 900"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,521C148.667,549.667,237.333,578.333,326,607C414.667,635.",
+        "w": 1330,
+        "h": 181.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,658.6C148.667,565.72,237.333,472.84,326,472.84C414.667,4",
+        "w": 1330,
+        "h": 723.3
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 962,
+    "screenshot": "screenshots/verify_3101_vh-print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_vh-print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_pct-chain_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_pct-chain_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_grid-print-rows-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_3101_grid-print-rows-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_print-h0_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "print-h0",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-h0",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_print-h0_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "360",
+      "viewBox": "0 0 1400 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,197C148.667,207.667,237.333,218.333,326,229C414.667,239.",
+        "w": 1330,
+        "h": 67.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,248.2C148.667,213.64,237.333,179.08,326,179.08C414.667,1",
+        "w": 1330,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "print-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 900
+    },
+    "svgAttrs": {
+      "width": "1400",
+      "height": "900",
+      "viewBox": "0 0 1400 900"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 208,
+        "dHead": "M60,521C148.667,549.667,237.333,578.333,326,607C414.667,635.",
+        "w": 1330,
+        "h": 181.5
+      },
+      {
+        "dLen": 214,
+        "dHead": "M60,658.6C148.667,565.72,237.333,472.84,326,472.84C414.667,4",
+        "w": 1330,
+        "h": 723.3
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 962,
+    "screenshot": "screenshots/verify_canary_vh-print-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "vh-print-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "vh print-vh-auto",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_vh-print-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_pct-chain_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "pct-chain",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcParentClass": "pct",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_pct-chain_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_grid-print-rows-auto_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "grid-print-rows-auto",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParent": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcParentClass": "cell",
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/verify_canary_grid-print-rows-auto_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  }
+]

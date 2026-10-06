@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>recharts 6112 repro</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #fff; font-family: monospace; }
+  #meta { font: 12px monospace; padding: 4px 8px; background: #ffe; }
+  .hdr { height: 40px; background: #ddd; }
+  .box { width: 600px; height: 360px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 360px; gap: 8px; width: 1200px; }
+  .grid2 > .cell { min-width: 0; min-height: 0; }
+  .flexrow { display: flex; gap: 8px; height: 360px; width: 1200px; }
+  .flexrow > .cell { flex: 1 1 0; min-width: 0; min-height: 0; }
+  .vh { height: 100vh; }
+  .pct { height: 100%; }
+  .aspect { width: 100%; aspect-ratio: 4 / 3; }
+  .print-h0 { height: 360px; }
+  .print-auto { height: 360px; }
+  @media print {
+    .print-h0 { height: 0 !important; }
+    .print-auto { height: auto !important; }
+    .print-hide-hdr .hdr { display: none; }
+    .print-gridrows-auto { grid-template-rows: auto !important; }
+    .print-vh-auto { height: auto !important; }
+  }
+  .shrink-grid { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 360px; width: 1200px; gap: 8px; }
+  .shrink-grid > .cell { min-width: 0; min-height: 0; }
+  @media print { .shrink-grid { width: 500px; grid-template-rows: 200px; } }
+  .rc-pad { width: 600px; height: 360px; padding: 20px; border: 10px solid #333; box-sizing: border-box; }
+  .rc-pad > div { width: 100%; height: 100%; }
+  .flex-nozero { display: flex; gap: 8px; width: 1200px; height: 360px; }
+  .flex-nozero > .cell { flex: 1 1 0; }
+  .grid-pad-cell { display: grid; grid-template-columns: 1fr 1fr; width: 1200px; height: 360px; gap: 8px; }
+  .grid-pad-cell > .cell { padding: 24px; border: 6px solid #333; box-sizing: border-box; min-width: 0; }
+  .grid-pad-cell > .cell > div { width: 100%; height: 100%; }
+  .wa-on .recharts-responsive-container > div { width: 100% !important; display: flex; }
+</style>
+</head>
+<body>
+<div id="meta">loading…</div>
+<div id="root"></div>
+<script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

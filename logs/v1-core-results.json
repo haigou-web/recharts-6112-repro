@@ -1,0 +1,1324 @@
+[
+  {
+    "version": "302",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "600px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/302_baseline-px_screen.png",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "600px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/302_baseline-px_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "596px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/302_grid-1fr_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "block",
+      "width": "596px",
+      "height": "360px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/302_grid-1fr_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/310_baseline-px_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/310_baseline-px_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/310_grid-1fr_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "310",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/310_grid-1fr_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/330_baseline-px_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/330_baseline-px_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/330_grid-1fr_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "330",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/330_grid-1fr_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/3101_baseline-px_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/3101_baseline-px_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/3101_grid-1fr_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/3101_grid-1fr_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/canary_baseline-px_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "baseline-px",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 600,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "600",
+      "height": "360",
+      "viewBox": "0 0 600 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 202,
+        "dHead": "M60,197C95.333,207.667,130.667,218.333,166,229C201.333,239.6",
+        "w": 530,
+        "h": 67.5
+      },
+      {
+        "dLen": 208,
+        "dHead": "M60,248.2C95.333,213.64,130.667,179.08,166,179.08C201.333,17",
+        "w": 530,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/canary_baseline-px_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "screen",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/canary_grid-1fr_screen.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "canary",
+    "scene": "grid-1fr",
+    "wa": false,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 0,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "block",
+      "width": "0px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 62,
+      "w": 596,
+      "h": 360
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "360",
+      "viewBox": "0 0 596 360"
+    },
+    "lineCount": 2,
+    "paths": [
+      {
+        "dLen": 210,
+        "dHead": "M60,197C95.067,207.667,130.133,218.333,165.2,229C200.267,239",
+        "w": 526,
+        "h": 67.5
+      },
+      {
+        "dLen": 216,
+        "dHead": "M60,248.2C95.067,213.64,130.133,179.08,165.2,179.08C200.267,",
+        "w": 526,
+        "h": 269.1
+      }
+    ],
+    "lineDots": 0,
+    "gridLines": 11,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/canary_grid-1fr_print.png",
+    "consoleErrors": [],
+    "loadError": null
+  }
+]

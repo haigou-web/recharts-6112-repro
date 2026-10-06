@@ -1,0 +1,26 @@
+{
+  "name": "recharts-6112-repro",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "matrix": "node run-matrix.mjs",
+    "matrix:empty": "node run-matrix.mjs --scenes=print-h0,print-auto,vh-print-auto,pct-chain,grid-print-rows-auto",
+    "matrix:wa": "node run-matrix.mjs --scenes=baseline-px,grid-1fr --wa=1 --tag=wa",
+    "matrix:pad": "node run-matrix.mjs --scenes=rc-pad,grid-pad-cell",
+    "matrix:pr": "node run-matrix.mjs --versions=3101,pr7894 --scenes=baseline-px,grid-1fr,print-h0,grid-print-rows-auto,print-shrink,rc-pad --tag=pr"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts-302": "npm:recharts@3.0.2",
+    "recharts-310": "npm:recharts@3.1.0",
+    "recharts-330": "npm:recharts@3.3.0",
+    "recharts-3101": "npm:recharts@3.10.1",
+    "recharts-canary": "npm:recharts@3.11.0-canary.5"
+  },
+  "devDependencies": {
+    "vite": "5.4.11",
+    "playwright-core": "1.49.0"
+  }
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "version": "302",
+    "scene": "print-h0",
+    "wa": true,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/wa_302_print-h0_print_wa.png",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "grid-print-rows-auto",
+    "wa": true,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "relative",
+      "display": "flex",
+      "width": "596px",
+      "height": "15px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/wa_302_grid-print-rows-auto_print_wa.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "302",
+    "scene": "pct-chain",
+    "wa": true,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": null,
+    "innerTag": null,
+    "innerStyle": null,
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/wa_302_pct-chain_print_wa.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "print-h0",
+    "wa": true,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 62,
+      "w": 1400,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "flex",
+      "width": "1400px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/wa_3101_print-h0_print_wa.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "grid-print-rows-auto",
+    "wa": true,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "flex",
+      "width": "596px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": {
+      "x": 0,
+      "y": 22,
+      "w": 596,
+      "h": 15
+    },
+    "svgAttrs": {
+      "width": "596",
+      "height": "15",
+      "viewBox": "0 0 596 15"
+    },
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/wa_3101_grid-print-rows-auto_print_wa.png",
+    "consoleErrors": [],
+    "loadError": null
+  },
+  {
+    "version": "3101",
+    "scene": "pct-chain",
+    "wa": true,
+    "media": "print",
+    "viewport": {
+      "w": 1400,
+      "h": 900
+    },
+    "rc": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "rcTag": "DIV recharts-responsive-container",
+    "inner": {
+      "x": 0,
+      "y": 22,
+      "w": 1400,
+      "h": 0
+    },
+    "innerTag": "DIV",
+    "innerStyle": {
+      "position": "static",
+      "display": "flex",
+      "width": "1400px",
+      "height": "0px",
+      "overflow": "visible",
+      "flex": "0 1 auto",
+      "minWidth": "0px",
+      "minHeight": "0px"
+    },
+    "svg": null,
+    "svgAttrs": null,
+    "lineCount": 0,
+    "paths": [],
+    "lineDots": 0,
+    "gridLines": 0,
+    "bodyScrollH": 900,
+    "screenshot": "screenshots/wa_3101_pct-chain_print_wa.png",
+    "consoleErrors": [],
+    "loadError": null
+  }
+]
